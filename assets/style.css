@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    background-color: rgb(70, 68, 68);
+}
+
+.Box {
+    width: 150px;
+    height: 150px;
+    background-color: blue;
+    position: relative;
+    left: 400px;
+    margin: 40px 0 40px 0;
+}
